@@ -1,3 +1,6 @@
+package src;
+
+
 /**
  * Represents a shopping cart item with a name and price. Provides methods to get and set the 
  * item's name and price, and to obtain a string representation of the item.

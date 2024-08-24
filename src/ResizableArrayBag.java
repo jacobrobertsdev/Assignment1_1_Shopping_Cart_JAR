@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Arrays;
 
 public final class ResizableArrayBag<T> {

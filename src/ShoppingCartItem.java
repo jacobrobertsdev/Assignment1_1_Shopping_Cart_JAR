@@ -1,3 +1,5 @@
+package src;
+
 
 /**
  * ShoppingCartItem is a class that implements the interface Item to represent

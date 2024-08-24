@@ -1,3 +1,4 @@
+package src;
 
 /**
  * Cart is a class that implements the interface ShoppingCart to represent a
@@ -5,6 +6,8 @@
  * resizable array of items.
  *
  */
+
+
 public class Cart implements ShoppingCart {
 
 	private ResizableArrayBag<Item> items;

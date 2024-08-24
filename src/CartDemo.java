@@ -1,3 +1,5 @@
+package src;
+
 public class CartDemo {
 
 	public static void main(String[] args) {
@@ -109,7 +111,5 @@ public class CartDemo {
 		for (String item : itemsList) {
 			System.out.println(item);
 		}
-		System.out.println();
-
 	}
 }
